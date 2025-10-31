@@ -66,11 +66,7 @@ Server จะเริ่มทำงานที่ http://localhost:3000
 ผลลัพธ์:
 ```JSON
 {
-  "drone_id": 66010296,
-  "drone_name": "Primitivo",
-  "light": "off",
-  "country": "Nigeria",
-  "weight": 152
+  "condition": "on-service"
 }
 ```
 ### 3.GET /logs/:droneId
